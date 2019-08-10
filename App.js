@@ -4,6 +4,7 @@ import {SearchBox} from './components/SearchBox'
 class App extends Component {
     state = {monsters:[],
         searchField:"",
+       test:[],
       
 
     }
